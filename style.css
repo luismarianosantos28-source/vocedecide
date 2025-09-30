@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Honk&display=swap');
+
+:root {
+    --vermelho: rgb(148, 25, 3);
+    --preto: black;
+    --roxo: rgb(56, 15, 97);
+    --azul: blue;
+    --titulo: "Honk", system-ui;
+    --texto: "DM Serif Text", serif;
+}
+
+body {
+    background-color: var(--roxo);
+    font-family: var(--titulo);
+}
